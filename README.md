@@ -9,7 +9,7 @@ Dagbók og samantekt á stöðumati eftir hvern dag gildir 10%.
 
 Dagur 1 (25.11.24) - Morgunfundur
 
- Hópurinn mætti í morgun kl 8:30 að hlusta á fyirlesturinn og einnig í sólinni þar sem það var ekki nóg pláss í M101.
+ Hópurinn mætti í morgun kl 8:30 að hlusta á fyirlesturinn og einnig í sólinni þar sem það var ekki nóg pláss í M101. Við fundum borðið okkar og settum upp GitHub og Vigdís H útskýrði fyrir okkur hverng það virkar þar sem hún er eldklár í þessu.
 
 
  Dagur 1 (25.11.24) - Fundur í lok dags
